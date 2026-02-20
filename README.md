@@ -44,9 +44,17 @@ Aqui no meu GitHub você vai encontrar meus projetos, estudos e desafios que est
     align="left" 
     alt="React"
     title="React" 
-    width="22px" 
+    width="29px" 
     style="padding-right: 10px;" 
-    src="imagem/javinha-parameugit.png" 
+    src="https://icongr.am/devicon/java-original.svg?size=128&color=000000" 
+/>
+<img
+    align="left" 
+    alt="React"
+    title="React" 
+    width="29px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=000000" 
 />
 <img
     align="left" 
@@ -54,7 +62,7 @@ Aqui no meu GitHub você vai encontrar meus projetos, estudos e desafios que est
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="imagem/c-sharp-logo.jpg" 
+    src="https://icongr.am/devicon/csharp-plain.svg?size=128&color=000000" 
 />
 <img 
     align="left" 
@@ -64,6 +72,14 @@ Aqui no meu GitHub você vai encontrar meus projetos, estudos e desafios que est
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/github-original.svg?size=128&color=000000" 
+/>
+<br/>
+<br/>
 
-<br/>
-<br/>
