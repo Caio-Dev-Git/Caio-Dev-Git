@@ -1,18 +1,27 @@
 
-# 👨‍💻 Caio Rodrigues
+👨‍💻 Caio Rodrigues
+Desenvolvedor Full Stack | Especializando em React 🚀
+Sou um desenvolvedor em transição de carreira, unindo experiência sólida em infraestrutura com o desenvolvimento de software moderno. Atualmente focado em construir interfaces performáticas e escaláveis.
 
-**Desenvolvedor Full Stack em formação 🚀**
+🛠️ Tech Stack & Foco:
+Front-end: React.js (Hooks, Context API, React Router)
 
-Sou apaixonado por tecnologia e estou sempre buscando evoluir como desenvolvedor. 
-Gosto de aprender na prática, criar projetos e transformar ideias em código.
+Linguagens: JavaScript (ES6+), C#, C/C++
 
-Atualmente focado em:
-- 💻 Desenvolvimento Web
-- ⚡ Lógica de Programação
-- 🔥 JavaScript
-- 🟣 C#
+Estilização: Tailwind CSS, Styled Components
 
-Aqui no meu GitHub você vai encontrar meus projetos, estudos e desafios que estou desenvolvendo ao longo da minha jornada na programação.
+Ferramentas: Git, Figma, Consumo de APIs REST
+
+📂 No meu GitHub:
+Projetos em React: Aplicações com foco em componentização e estado.
+
+Lógica de Programação: Soluções estruturadas e algoritmos.
+
+Automação: Workflows e integração de sistemas.
+
+📬 Conecte-se comigo:
+LinkedIn: https://www.linkedin.com/in/caio-rodrigues-408518bb/
+E-mail: caio.rodrigues13@live.com
 
 ### 🤖 Linguagens e Tecnologias
 
